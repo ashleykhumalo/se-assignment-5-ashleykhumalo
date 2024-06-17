@@ -177,8 +177,12 @@ Answer the following questions based on your understanding of the installation a
 
     Referencing
 
-    Visual Studio Code and Git learnt from class sessions 
+    Visual Studio Code and Git learnt from class sessions
+
+
     Additional Knowledge of VS Code learnt from YouTube- https://www.youtube.com/watch?v=VqCgcpAypFQ
+
+
     More knowledge about VS Code and Git learnt from LMS 
 
      Submission Guidelines:
